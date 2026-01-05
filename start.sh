@@ -1,3 +1,4 @@
 #!/bin/bash
-python -u DiscordGemini.py
+python DiscordGemini.py
+
 
