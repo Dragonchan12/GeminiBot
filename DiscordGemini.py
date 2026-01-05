@@ -234,4 +234,7 @@ async def on_ready():
 # =========================
 # RUN BOT
 # =========================
-bot.run(DISCORD_TOKEN)
+if __name__ == "__main__":
+    bot.run(DISCORD_TOKEN)
+
+
