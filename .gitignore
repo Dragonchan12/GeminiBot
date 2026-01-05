@@ -1,0 +1,14 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# Memory / data files
+DiscordMemories.json
+
+# OS files
+.DS_Store
+Thumbs.db
